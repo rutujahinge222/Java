@@ -1,0 +1,11 @@
+h1{
+    color:blueviolet !important;
+}
+body{
+    color:rgb(194, 121, 27);
+    background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);    font-size: larger;
+    font-weight: 400;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+}

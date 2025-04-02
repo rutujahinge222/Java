@@ -1,0 +1,14 @@
+h1{
+    color:blueviolet !important;
+}
+body{
+    color:rgb(194, 121, 27);
+    background: radial-gradient(290px at 8.6% 46.4%, rgb(255, 148, 148) 7.8%, rgb(255, 223, 155) 32.2%, rgb(255, 247, 177) 48.1%, rgb(216, 255, 177) 61%, rgb(177, 255, 253) 75.3%);
+    font-weight: 400;
+    text-align:center;
+    /*text-decoration:dotted;
+    align-items: center;
+    text-size-adjust:inherit;*/
+    justify-content: center;
+    
+}

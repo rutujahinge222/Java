@@ -1,0 +1,14 @@
+p{
+    column-count: 3;
+    column-width: 30px;
+    column-fill: balance;
+    text-align: justify;
+    text-size-adjust:unset;
+    column-rule: 5px solid red;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: double;    
+}

@@ -1,0 +1,45 @@
+.parent{
+    border: 3px;
+    height: 500px;
+    width:500px;
+    position: relative;
+    background: linear-gradient(114.3deg, rgb(19, 126, 57) 0.2%, rgb(8, 65, 91) 68.5%);
+    justify-content: center;
+    display: flex;
+}
+.child1{
+    top: 0;
+    right: 0;    
+}
+
+.child2{
+    bottom: 0%;
+    right:0%;
+}
+    
+
+.child3{
+    top:0%;
+    left:0%;
+}
+  
+
+.child4{
+    bottom:0%;
+    left:0%;
+
+}
+
+.child5{
+    top:40%;
+    left:40%; 
+}
+.child{
+    border: 3px solid; 
+    background: linear-gradient(109.6deg, rgb(255, 230, 109) 11.2%, rgb(87, 232, 107) 100.2%);
+    height: 70px;
+    width:70px;
+    position: absolute;
+    text-align: center;
+    border-color: green;
+}

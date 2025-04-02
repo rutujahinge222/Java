@@ -1,0 +1,112 @@
+body{
+    overflow-x: hidden;
+}
+.nav-link {
+    color: black;
+}
+
+.text-box {
+    text-align: center;
+    padding: 24px;
+}
+
+.banner {
+    width: 100%;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: 100%;
+    object-fit: none;
+    padding: 16px;
+}
+
+.row1 {
+    background-color: rgb(216, 216, 237);
+}
+
+p {
+    margin-top: 8px;
+    font-size: 16px;
+    color: #555;
+}
+
+.button {
+    /* display: inline-block; */
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background: black;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.row3{
+    align-content: center;
+    justify-content: center;
+}
+
+.card {
+    margin-left: 32px;
+    margin-bottom: 32px;
+    max-width: 650px;
+    border-radius: 0px;
+}
+
+.card-title {
+    padding-top:16px;
+    padding-bottom: 8px;
+}
+
+
+.card-link {
+    text-decoration: none;
+}
+
+.card-img{
+    max-width: 100%;
+    object-fit:none;
+    border-radius: 0%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    margin-top: 32px;
+    padding-top: 32px;
+    margin-bottom: 32px;
+}
+
+video {
+    max-width: 100%;
+    height: 100%;
+    object-fit: none;
+    margin-left: 24px;
+}
+
+.text-content {
+    margin-top: 24px;
+    margin-left: 24px;
+    justify-content: center
+}
+
+.footer p {
+    text-align: start;
+    margin-left: 16px;
+    color: #555;
+    text-decoration: none;
+
+}
+
+.footer a {
+    color: #555;
+    text-decoration: none;
+    padding-left: 6px;
+    padding-right: 6px;
+}

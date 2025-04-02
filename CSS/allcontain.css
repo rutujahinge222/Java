@@ -1,0 +1,38 @@
+
+.parent{
+    border: 3px;
+    height: 300px;
+    width:500px;
+    position: relative;
+    background: radial-gradient(328px at 2.9% 15%, rgb(191, 224, 251) 0%, rgb(232, 233, 251) 25.8%, rgb(252, 239, 250) 50.8%, rgb(234, 251, 251) 77.6%, rgb(240, 251, 244) 100.7%);
+    justify-content: center;
+    display: flex;
+} 
+
+.child{
+    border-top: solid 8px ; 
+    background: linear-gradient(109.6deg, rgb(255, 230, 109) 11.2%, rgb(87, 232, 107) 100.2%);
+    height: 65%;
+    top:350px;
+    width:100%;
+    position: absolute;
+    text-align: center;
+
+    border-color: green;
+}
+
+.child1{
+    border-top: solid 8px ;
+    border-bottom: solid 8px; 
+    border-left: solid 5px;
+    border-right: solid 5px;
+    background: linear-gradient(109.6deg, rgb(255, 230, 109) 11.2%, rgb(87, 232, 107) 100.2%);
+    height: 65%;
+    top:650px;
+    width:100%;
+    position: absolute;
+    text-align: center;
+    border-color: green;
+
+}
+
